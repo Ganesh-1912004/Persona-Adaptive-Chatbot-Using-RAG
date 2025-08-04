@@ -1,0 +1,26 @@
+📂 persona_adaptive_chatbot/
+└── 📁 data/
+└── 📄 knowledge_base.txt
+--- Add your custom knowledge here ---
+This text will be used by the RAG system to answer questions.
+The Pimpri Chinchwad College of Engineering (PCCOE) was established in 1999.
+It is located in Nigdi, Pune, India. The college is part of the Pimpri Chinchwad Education Trust (PCET).
+The motto of the college is "Knowledge Brings Freedom".
+
+PCCOE offers undergraduate programs in various engineering disciplines, including Computer Engineering,
+Mechanical Engineering, Electronics & Telecommunication, and Information Technology.
+It also offers postgraduate programs.
+
+The college is known for its strong focus on industry-academia interaction, research, and project-based learning.
+PCCOE has received numerous awards and rankings for its academic excellence and infrastructure.
+The campus is equipped with modern laboratories, a central library, and sports facilities.
+
+Admissions to undergraduate courses are primarily based on scores from the Maharashtra Health and Technical Common Entrance Test (MHT-CET)
+and the Joint Entrance Examination (JEE) Main.
+
+The Department of Computer Science and Engineering (AI & ML) is a new and advanced department focusing on cutting-edge technologies.
+The curriculum is designed to provide students with a strong foundation in artificial intelligence, machine learning,
+data science, and deep learning. Students in this department work on innovative projects, such as the
+"Persona-Adaptive Conversational AI", which aims to create chatbots that can understand and adapt to user behavior.
+This project utilizes technologies like LangChain for orchestrating AI workflows and Retrieval-Augmented Generation (RAG)
+to provide context-aware and factually accurate responses.
